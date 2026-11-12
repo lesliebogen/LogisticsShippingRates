@@ -1,6 +1,8 @@
 # LogisticsShippingRates
 
-Please consider the below factors while contributing
+* A simple git repository project
+
+Please consider the factors below while contributing
 
 Code Style:
 Maintain a consistent code style for readability.
